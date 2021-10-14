@@ -18,6 +18,10 @@ $ gcc [programName].c -o programName ( Optionally add '-lm' if linking math libr
 $ ./programName
 
 ```
+* Python programs
+```bash
+$ python3 program.py 
+```
 
 ## Note ##
 * This Repository is Licensed Under GPLv3
